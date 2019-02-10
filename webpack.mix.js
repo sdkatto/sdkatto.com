@@ -11,7 +11,7 @@ const mix = require("laravel-mix");
  |
  */
 
-mix.js("node_modules/eva-icons/eva.js", "public/js/eva.js")
+mix.js("resources/js/app.js", "public/js/app.js")
    .sass(
     "resources/scss/index.scss",
     "public/css"

@@ -6,8 +6,7 @@
 
         <title>Aria</title>
         
-        <link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.css') }}"/>
-        <link rel="stylesheet" type="text/css" href="{{ asset('css/index.css') }}"/>
+        <link rel="stylesheet" type="text/css" href="{{ mix('css/index.css') }}"/>
 
 
     </head>
@@ -17,26 +16,35 @@
                 <div class="col-lg-5 d-flex align-items-center text-white" style="min-height: 100vh;">
                     <div>
                         <h1 class="my-5">i'm aria</h1>
-                        <span class="my-5">
+                        <div class="my-5">
                             <p>
-                                I currently work for <a href="https://www.thinkingpandas.com/">Thinking Pandas</a> as a <span class="text-secondary">software engineer</span>                                
+                                I design and develop web applications as a <span class="text-secondary">software engineer</span>
+                                at <a href="https://www.thinkingpandas.com/">Thinking Pandas</a>
                             </p>
                             <p>                                
-                                I currently serve as the <span class="text-secondary">VP for Innovation</span> at <a href="https://developh.org/">Developh</a>,
-                                an international nonprofit accelerating student-led tech and innovation
+                                I supervise incubation and acceleration programs
+                                as the <span class="text-secondary">VP for Innovation</span>
+                                at <a href="https://developh.org/">Developh</a> – an international
+                                nonprofit accelerating student-led tech and innovation
                             </p>
                             <p>    
                                 I also <span class="text-secondary">co-founded</span>
-                                <a href="https://justbecause.ph">Just Because</a>, a research & development firm based in the Philippines
+                                <a href="https://justbecause.ph">Just Because</a> where we research and develop
+                                IT solutions
                             </p>
-                        </span>
-                        <span class="my-5">
+                        </div>
+                        <div class="my-5">
+                            <div>
+                                <a href="https://github.com/fengxiaoyue"><i data-eva="github-outline" data-eva-fill="#fff"></i></a>
+                                <a href="https://twitter.com/f_xyue"><i data-eva="twitter-outline" data-eva-fill="#fff"></i></a>
+                                <a href="mailto:hi@aria.ph"><i data-eva="email-outline" data-eva-fill="#fff"></i></a>
+                            </div>
                             <p>ping me at <a href="mailto:hi@aria.ph">hi@aria.ph</a></p>
-                        </span>      
+                        </div>      
                     </div>              
                 </div>
             </div>
         </div>
-        <script src="{{ asset('js/eva-icons.js') }}"></script>
+        <script src="{{ mix('js/app.js') }}"></script>
     </body>
 </html>
