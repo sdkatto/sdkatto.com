@@ -22,7 +22,7 @@
         <meta property="twitter:title" content="aria – designer, developer, tech nomad">
         <meta property="twitter:description" content="I like alpacas">
         <meta property="twitter:image" content="">
-        
+
         <title>Aria</title>
         
         <link rel="stylesheet" type="text/css" href="{{ mix('css/index.css') }}"/>
@@ -34,7 +34,7 @@
             <div class="row">
                 <div class="col-lg-5 d-flex align-items-center text-white" style="min-height: 100vh;">
                     <div>
-                        <h1 class="my-5">i'm aria, the tech nomad</h1>
+                        <h1 class="my-5">i'm aria</h1>
                         <div class="my-5">
                             <p>
                                 I design and develop web applications as a <span class="text-secondary">software engineer</span>
@@ -58,7 +58,6 @@
                                 <a href="https://twitter.com/f_xyue"><i data-eva="twitter-outline" data-eva-fill="#fff"></i></a>
                                 <a href="mailto:hi@aria.ph"><i data-eva="email-outline" data-eva-fill="#fff"></i></a>
                             </div>
-                            <p>ping me at <a href="mailto:hi@aria.ph">hi@aria.ph</a></p>
                         </div>      
                     </div>              
                 </div>
