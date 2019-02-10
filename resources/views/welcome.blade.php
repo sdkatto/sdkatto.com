@@ -4,6 +4,25 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <!-- Primary Meta Tags -->
+        <title>aria – designer, developer, tech nomad</title>
+        <meta name="title" content="aria – designer, developer, tech nomad">
+        <meta name="description" content="I like alpacas">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://aria.ph/">
+        <meta property="og:title" content="aria – designer, developer, tech nomad">
+        <meta property="og:description" content="I like alpacas">
+        <meta property="og:image" content="">
+
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://aria.ph/">
+        <meta property="twitter:title" content="aria – designer, developer, tech nomad">
+        <meta property="twitter:description" content="I like alpacas">
+        <meta property="twitter:image" content="">
+        
         <title>Aria</title>
         
         <link rel="stylesheet" type="text/css" href="{{ mix('css/index.css') }}"/>
@@ -15,7 +34,7 @@
             <div class="row">
                 <div class="col-lg-5 d-flex align-items-center text-white" style="min-height: 100vh;">
                     <div>
-                        <h1 class="my-5">i'm aria</h1>
+                        <h1 class="my-5">i'm aria, the tech nomad</h1>
                         <div class="my-5">
                             <p>
                                 I design and develop web applications as a <span class="text-secondary">software engineer</span>
