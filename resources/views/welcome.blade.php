@@ -5,7 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Aria</title>
+        
+        <link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.css') }}"/>
         <link rel="stylesheet" type="text/css" href="{{ asset('css/index.css') }}"/>
+
 
     </head>
     <body>
@@ -34,5 +37,6 @@
                 </div>
             </div>
         </div>
+        <script src="{{ asset('js/eva-icons.js') }}"></script>
     </body>
 </html>
