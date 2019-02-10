@@ -5,7 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Primary Meta Tags -->
-        <title>aria – designer, developer, tech nomad</title>
         <meta name="title" content="aria – designer, developer, tech nomad">
         <meta name="description" content="I like alpacas">
 
@@ -14,16 +13,16 @@
         <meta property="og:url" content="https://aria.ph/">
         <meta property="og:title" content="aria – designer, developer, tech nomad">
         <meta property="og:description" content="I like alpacas">
-        <meta property="og:image" content="">
+        <meta property="og:image" content="{{ asset('img/tb.png') }}">
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image">
         <meta property="twitter:url" content="https://aria.ph/">
         <meta property="twitter:title" content="aria – designer, developer, tech nomad">
         <meta property="twitter:description" content="I like alpacas">
-        <meta property="twitter:image" content="">
+        <meta property="twitter:image" content="{{ asset('img/tb.png') }}">
 
-        <title>Aria</title>
+        <title>aria</title>
         
         <link rel="stylesheet" type="text/css" href="{{ mix('css/index.css') }}"/>
 
