@@ -5,20 +5,27 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Aria</title>
-        <link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.css') }}"/>
-        <link rel="stylesheet" type="text/css" href="{{ asset('css/styles.css') }}"/>
+        <link rel="stylesheet" type="text/css" href="{{ asset('css/index.css') }}"/>
 
     </head>
     <body>
         <div class="container">
-            <div class="row h">
-                <div class="col-lg-4 d-flex align-items-center" style="min-height: 100vh;">
+            <div class="row">
+                <div class="col-lg-5 d-flex align-items-center text-white" style="min-height: 100vh;">
                     <div>
-                        <h1 class="my-5">hi! i'm aria.</h1>
+                        <h1 class="my-5">i'm aria</h1>
                         <span class="my-5">
-                            <p>i design and develop web applications</p>
-                            <p>when bored, i co-founded <a href="https://justbecause.ph">just because</a>, an r&d consultancy firm</p>
-                            <p>if i'm not doing anything else, i'm reading about product design and software architecture</p>
+                            <p>
+                                I currently work for <a href="https://www.thinkingpandas.com/">Thinking Pandas</a> as a <span class="text-secondary">software engineer</span>                                
+                            </p>
+                            <p>                                
+                                I currently serve as the <span class="text-secondary">VP for Innovation</span> at <a href="https://developh.org/">Developh</a>,
+                                an international nonprofit accelerating student-led tech and innovation
+                            </p>
+                            <p>    
+                                I also <span class="text-secondary">co-founded</span>
+                                <a href="https://justbecause.ph">Just Because</a>, a research & development firm based in the Philippines
+                            </p>
                         </span>
                         <span class="my-5">
                             <p>ping me at <a href="mailto:hi@aria.ph">hi@aria.ph</a></p>
