@@ -22,6 +22,7 @@
         <meta property="twitter:description" content="I like alpacas">
         <meta property="twitter:image" content="{{ asset('img/tb.png') }}">
 
+        <meta name="theme-color" content="#212121">
         <title>aria</title>
         
         <link rel="stylesheet" type="text/css" href="{{ mix('css/index.css') }}"/>
