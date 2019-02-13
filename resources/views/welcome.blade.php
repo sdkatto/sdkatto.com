@@ -54,9 +54,18 @@
                         </div>
                         <div class="my-5">
                             <div>
-                                <a href="https://github.com/fengxiaoyue"><i data-eva="github-outline" data-eva-fill="#fff"></i><span class="sr-only">GitHub</span></a>
-                                <a href="https://twitter.com/f_xyue"><i data-eva="twitter-outline" data-eva-fill="#fff"></i><span class="sr-only">Twitter</span></a>
-                                <a href="mailto:hi@aria.ph"><i data-eva="email-outline" data-eva-fill="#fff"></i><span class="sr-only">Email</span></a>
+                                <a href="https://github.com/fengxiaoyue" class="mr-3 text-decoration-none">
+                                    <i data-eva="github-outline" data-eva-fill="#fff" data-eva-animation="pulse" data-eva-infinite="true"></i>
+                                    <span class="sr-only">GitHub</span>
+                                </a>
+                                <a href="https://twitter.com/f_xyue" class="mr-3 text-decoration-none">
+                                    <i data-eva="twitter-outline" data-eva-fill="#fff" data-eva-animation="pulse" data-eva-infinite="true"></i>
+                                    <span class="sr-only">Twitter</span>
+                                </a>
+                                <a href="mailto:hi@aria.ph" class="mr-3 text-decoration-none">
+                                    <i data-eva="email-outline" data-eva-fill="#fff" data-eva-animation="pulse" data-eva-infinite="true"></i>
+                                    <span class="sr-only">Email</span>
+                                </a>
                             </div>
                         </div>      
                     </div>              
