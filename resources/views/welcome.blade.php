@@ -36,23 +36,23 @@
                     <div>
                         <h1 class="my-5">i'm aria</h1>
                         <div class="my-5">
-                            <p>
+                            <p data-aos="fade-right" data-aos-delay="500" data-aos-duration="800">
                                 I design and develop web applications as a <span class="text-secondary">software engineer</span>
                                 at <a href="https://www.thinkingpandas.com/">Thinking Pandas</a>
                             </p>
-                            <p>                                
+                            <p data-aos="fade-right" data-aos-delay="1000" data-aos-duration="800">                                
                                 I supervise incubation and acceleration programs
                                 as the <span class="text-secondary">VP for Innovation</span>
                                 at <a href="https://developh.org/">Developh</a> – an international
                                 nonprofit accelerating student-led tech and innovation
                             </p>
-                            <p>    
+                            <p data-aos="fade-right" data-aos-delay="1500" data-aos-duration="800">    
                                 I also <span class="text-secondary">co-founded</span>
                                 <a href="https://justbecause.ph">Just Because</a> where we research and develop
                                 IT solutions
                             </p>
                         </div>
-                        <div class="my-5">
+                        <div class="my-5" data-aos="fade-up" data-aos-delay="2000" data-aos-duration="800">
                             <div>
                                 <a href="https://github.com/fengxiaoyue" class="mr-3 text-decoration-none">
                                     <i data-eva="github-outline" data-eva-fill="#fff" data-eva-animation="pulse" data-eva-infinite="true"></i>
