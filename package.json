@@ -24,6 +24,7 @@
         "vue-template-compiler": "^2.6.4"
     },
     "dependencies": {
+        "aos": "^2.3.4",
         "eva-icons": "^1.1.1"
     }
 }
