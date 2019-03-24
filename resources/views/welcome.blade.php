@@ -32,9 +32,9 @@
     <body>
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 d-flex align-items-center text-white" style="min-height: 100vh;">
+                <div class="col-md-6 col-lg-4 d-flex align-items-center text-white" style="min-height: 100vh;">
                     <div>
-                        <h1 class="my-5">i'm aria</h1>
+                        <h1 class="my-5">i'm ar<span class="text-primary">i</span>a</h1>
                         <div class="my-5">
                             <p data-aos="fade-right" data-aos-delay="500" data-aos-duration="600">
                                 I design and develop web applications as a <span class="text-secondary font-weight-bold">software engineer</span>
