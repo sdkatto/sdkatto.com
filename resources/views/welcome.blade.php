@@ -26,7 +26,6 @@
         <title>aria</title>
         
         <link rel="stylesheet" type="text/css" href="{{ mix('css/index.css') }}"/>
-        <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet"/>
 
 
     </head>
