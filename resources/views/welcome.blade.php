@@ -37,18 +37,18 @@
                         <h1 class="my-5">i'm aria</h1>
                         <div class="my-5">
                             <p data-aos="fade-right" data-aos-delay="500" data-aos-duration="600">
-                                I design and develop web applications as a <span class="text-secondary font-weight-bold">software engineer</span>
-                                at <a class="font-weight-bold" href="https://www.thinkingpandas.com/">Thinking Pandas</a>
+                                I design and develop web applications as a <span class="text-secondary">software engineer</span>
+                                at <a href="https://www.thinkingpandas.com/">Thinking Pandas</a>
                             </p>
                             <p data-aos="fade-right" data-aos-delay="1000" data-aos-duration="600">                                
                                 I supervise incubation and acceleration programs
-                                as the <span class="text-secondary font-weight-bold">VP for Innovation</span>
-                                at <a class="font-weight-bold" href="https://developh.org/">Developh</a> – an international
+                                as the <span class="text-secondary">VP for Innovation</span>
+                                at <a href="https://developh.org/">Developh</a> – an international
                                 nonprofit accelerating student-led tech and innovation
                             </p>
                             <p data-aos="fade-right" data-aos-delay="1500" data-aos-duration="600">    
-                                I also <span class="text-secondary font-weight-bold">co-founded</span>
-                                <a class="font-weight-bold" href="https://justbecause.ph">Just Because</a> where we research and develop
+                                I also <span class="text-secondary">co-founded</span>
+                                <a href="https://justbecause.ph">Just Because</a> where we research and develop
                                 IT solutions
                             </p>
                         </div>
