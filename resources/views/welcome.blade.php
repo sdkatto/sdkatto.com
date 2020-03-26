@@ -23,7 +23,7 @@
         <meta property="twitter:image" content="{{ asset('img/tb.png') }}">
 
         <meta name="theme-color" content="#212121">
-        <title>aria</title>
+        <title>fengxiaoyue</title>
         
         <link rel="stylesheet" type="text/css" href="{{ mix('css/index.css') }}"/>
 
@@ -34,20 +34,20 @@
             <div class="row">
                 <div class="col-md-6 col-lg-4 d-flex align-items-center text-white" style="min-height: 100vh;">
                     <div>
-                        <h1 class="my-5">i'm aria</h1>
+                        <h1 class="my-5">i'm aria / fengxiaoyue</h1>
                         <div class="my-5">
                             <p data-aos="fade-right" data-aos-delay="500" data-aos-duration="600">
                                 I design and develop web applications as a <span class="text-secondary">software engineer</span>
                                 at <a href="https://www.thinkingpandas.com/">Thinking Pandas</a>
                             </p>
-                            <p data-aos="fade-right" data-aos-delay="1000" data-aos-duration="600">                                
+                            <!-- <p data-aos="fade-right" data-aos-delay="1000" data-aos-duration="600">                                
                                 I supervise incubation and acceleration programs
                                 as the <span class="text-secondary">VP for Innovation</span>
                                 at <a href="https://developh.org/">Developh</a> – an international
                                 nonprofit accelerating student-led tech and innovation
-                            </p>
+                            </p> -->
                             <p data-aos="fade-right" data-aos-delay="1500" data-aos-duration="600">    
-                                I also <span class="text-secondary">co-founded</span>
+                                I <span class="text-secondary">co-founded</span>
                                 <a href="https://justbecause.ph">Just Because</a> where we research and develop
                                 IT solutions
                             </p>
@@ -62,7 +62,7 @@
                                     <i data-eva="twitter-outline" data-eva-fill="#fff" data-eva-animation="pulse" data-eva-infinite="true"></i>
                                     <span class="sr-only">Twitter</span>
                                 </a>
-                                <a href="mailto:hi@aria.ph" class="mr-3 text-decoration-none">
+                                <a href="mailto:hi@fengxiaoyue.dev" class="mr-3 text-decoration-none">
                                     <i data-eva="email-outline" data-eva-fill="#fff" data-eva-animation="pulse" data-eva-infinite="true"></i>
                                     <span class="sr-only">Email</span>
                                 </a>
