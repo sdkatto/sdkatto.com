@@ -5,21 +5,21 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Primary Meta Tags -->
-        <meta name="title" content="aria – designer, developer, tech nomad">
-        <meta name="description" content="I like alpacas">
+        <meta name="title" content="@fengxiaoyue">
+        <meta name="description" content="profile of aria fong aka fengxiaoyue">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://aria.ph/">
-        <meta property="og:title" content="aria – designer, developer, tech nomad">
-        <meta property="og:description" content="I like alpacas">
+        <meta property="og:url" content="https://fengxiaoyue.dev/">
+        <meta property="og:title" content="@fengxiaoyue">
+        <meta property="og:description" content="profile of aria fong aka fengxiaoyue">
         <meta property="og:image" content="{{ asset('img/tb.png') }}">
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://aria.ph/">
-        <meta property="twitter:title" content="aria – designer, developer, tech nomad">
-        <meta property="twitter:description" content="I like alpacas">
+        <meta property="twitter:url" content="https://fengxiaoyue.dev/">
+        <meta property="twitter:title" content="@fengxiaoyue">
+        <meta property="twitter:description" content="profile of aria fong aka fengxiaoyue">
         <meta property="twitter:image" content="{{ asset('img/tb.png') }}">
 
         <meta name="theme-color" content="#212121">
@@ -34,7 +34,10 @@
             <div class="row">
                 <div class="col-md-6 col-lg-4 d-flex align-items-center text-white" style="min-height: 100vh;">
                     <div>
-                        <h1 class="my-5">i'm aria / fengxiaoyue</h1>
+                        <div class="my-5 text-center">
+                            <h1 class="mb-0">@fengxiaoyue</h1>
+                            <small>aka aria fong</small>
+                        </div>
                         <div class="my-5">
                             <p data-aos="fade-right" data-aos-delay="500" data-aos-duration="600">
                                 I design and develop web applications as a <span class="text-secondary">software engineer</span>
