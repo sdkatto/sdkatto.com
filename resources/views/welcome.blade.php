@@ -43,12 +43,6 @@
                                 I design and develop web applications as a <span class="text-secondary">software engineer</span>
                                 at <a href="https://www.thinkingpandas.com/">Thinking Pandas</a>
                             </p>
-                            <!-- <p data-aos="fade-right" data-aos-delay="1000" data-aos-duration="600">                                
-                                I supervise incubation and acceleration programs
-                                as the <span class="text-secondary">VP for Innovation</span>
-                                at <a href="https://developh.org/">Developh</a> – an international
-                                nonprofit accelerating student-led tech and innovation
-                            </p> -->
                             <p data-aos="fade-right" data-aos-delay="1500" data-aos-duration="600">    
                                 I <span class="text-secondary">co-founded</span>
                                 <a href="https://justbecause.ph">Just Because</a> where we research and develop
