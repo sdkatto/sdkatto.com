@@ -36,17 +36,14 @@
                     <div>
                         <div class="my-5 text-center">
                             <h1 class="mb-0">@fengxiaoyue</h1>
-                            <small>aka aria fong</small>
+                            <small>aka aria</small>
                         </div>
                         <div class="my-5">
                             <p data-aos="fade-right" data-aos-delay="500" data-aos-duration="600">
-                                I design and develop web applications as a <span class="text-secondary">software engineer</span>
-                                at <a href="https://www.thinkingpandas.com/">Thinking Pandas</a>
+                                layout janitor, devops demon, standards slave
                             </p>
-                            <p data-aos="fade-right" data-aos-delay="1500" data-aos-duration="600">    
-                                I <span class="text-secondary">co-founded</span>
-                                <a href="https://justbecause.ph">Just Because</a> where we research and develop
-                                IT solutions
+                            <p data-aos="fade-right" data-aos-delay="1500" data-aos-duration="600">
+                                "Brute force is the last resort of the incompetent"
                             </p>
                         </div>
                         <div class="my-5" data-aos="fade-up" data-aos-delay="2000" data-aos-duration="800">
