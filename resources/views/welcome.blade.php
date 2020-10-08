@@ -36,11 +36,10 @@
                     <div>
                         <div class="my-5 text-center">
                             <h1 class="mb-0">@fengxiaoyue</h1>
-                            <small>aka aria</small>
                         </div>
                         <div class="my-5">
                             <p data-aos="fade-right" data-aos-delay="500" data-aos-duration="600">
-                                layout janitor, devops demon, standards slave
+                                layout janitor, devops demon, OSINT cat
                             </p>
                             <p data-aos="fade-right" data-aos-delay="1500" data-aos-duration="600">
                                 "Brute force is the last resort of the incompetent"
