@@ -1,14 +1,14 @@
-# fengxiaoyue.dev
+# sdkatto.com
 
-Personal website of [@fengxiaoyue](https://github.com/fengxiaoyue)
+Personal website of [@sdkatto](https://github.com/sdkatto)
 
 ## Steps to start development
 
 1. Clone and install dependencies
 
 ```
-git clone git@github.com:fengxiaoyue/fengxiaoyue.dev.git
-cd fengxiaoyue.dev
+git clone git@github.com:sdkatto/sdkatto.com.git
+cd sdkatto.com
 composer install
 npm install
 ```
